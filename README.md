@@ -1,0 +1,1 @@
+# Plesk server telegraf example.
